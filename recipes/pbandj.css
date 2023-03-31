@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+body {
+background-color: cornflowerblue;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
